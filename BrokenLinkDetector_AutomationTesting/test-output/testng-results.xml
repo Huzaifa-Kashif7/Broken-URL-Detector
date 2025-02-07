@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-07T17:34:18Z" name="Smoke suite" finished-at="2025-02-07T17:35:08Z" duration-ms="49576">
+    <groups>
+    </groups>
+    <test started-at="2025-02-07T17:34:18Z" name="TrainingPractice" finished-at="2025-02-07T17:35:08Z" duration-ms="49576">
+      <class name="TestProject.TestNG_tests.TestNGTest">
+        <test-method is-config="true" signature="Initiation()[pri:0, instance:TestProject.TestNG_tests.TestNGTest@4fcd19b3]" started-at="2025-02-07T17:34:18Z" name="Initiation" finished-at="2025-02-07T17:34:28Z" duration-ms="10121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initiation -->
+        <test-method signature="Automation()[pri:1, instance:TestProject.TestNG_tests.TestNGTest@4fcd19b3]" started-at="2025-02-07T17:34:28Z" name="Automation" description="Check Broken Links" finished-at="2025-02-07T17:35:08Z" duration-ms="39116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Automation -->
+        <test-method is-config="true" signature="Conclusion()[pri:0, instance:TestProject.TestNG_tests.TestNGTest@4fcd19b3]" started-at="2025-02-07T17:35:08Z" name="Conclusion" finished-at="2025-02-07T17:35:08Z" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Conclusion -->
+      </class> <!-- TestProject.TestNG_tests.TestNGTest -->
+    </test> <!-- TrainingPractice -->
+  </suite> <!-- Smoke suite -->
+</testng-results>
